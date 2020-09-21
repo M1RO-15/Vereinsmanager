@@ -68,6 +68,7 @@
       <workItem from="1600428315638" duration="1698000" />
       <workItem from="1600508145316" duration="859000" />
       <workItem from="1600550233894" duration="879000" />
+      <workItem from="1600695518823" duration="745000" />
     </task>
     <servers />
   </component>
@@ -116,5 +117,9 @@
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.479.800.600@0.0.1920.1040" timestamp="1600428940724" />
     <state x="794" y="443" key="NewPhpFileDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600508735200" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600695666499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600695666499" />
   </component>
 </project>
