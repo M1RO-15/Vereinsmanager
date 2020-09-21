@@ -26,7 +26,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2ce738a-a44c-4a6d-afdd-0098bb45bae5" name="Default Changelist" comment="" />
+    <list default="true" id="b2ce738a-a44c-4a6d-afdd-0098bb45bae5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Template/Dashboard Example/dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zeiten.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Zeiten.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +71,7 @@
       <workItem from="1600426593318" duration="1297000" />
       <workItem from="1600428315638" duration="1698000" />
       <workItem from="1600508145316" duration="859000" />
+      <workItem from="1600688704522" duration="321000" />
     </task>
     <servers />
   </component>
@@ -95,6 +100,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600428382452">
@@ -109,10 +115,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="730" y="242" key="NewPhpClassDialog/0.0.1920.1040/1920.479.800.600@0.0.1920.1040" timestamp="1600428732829" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1600508735200">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1600688986049">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.479.800.600@0.0.1920.1040" timestamp="1600428940724" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.479.800.600@0.0.1920.1040" timestamp="1600688986049" />
     <state x="794" y="443" key="NewPhpFileDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600508735200" />
   </component>
 </project>
