@@ -6,7 +6,7 @@
 <h2>Seite von Miro Bögershausen</h2>
 <h3>DMsT Rechner</h3>
 
-<input type="number" name="index"><input type="number" name="dist"><button type="button" onclick="myFunction()">Submit</button>
+<input type="number" id="dist"><input type="number" id="index"><button type="button" onclick="myFunction()">Submit</button>
 
 
 <p id="punkt"></p>
