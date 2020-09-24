@@ -27,9 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2ce738a-a44c-4a6d-afdd-0098bb45bae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Template/Dashboard Example/dashboard.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zeiten.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Zeiten.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/Template/template.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +57,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -71,7 +76,9 @@
       <workItem from="1600426593318" duration="1297000" />
       <workItem from="1600428315638" duration="1698000" />
       <workItem from="1600508145316" duration="859000" />
-      <workItem from="1600688704522" duration="321000" />
+      <workItem from="1600688704522" duration="788000" />
+      <workItem from="1600762171117" duration="59000" />
+      <workItem from="1600941835065" duration="1802000" />
     </task>
     <servers />
   </component>
@@ -115,10 +122,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="730" y="242" key="NewPhpClassDialog/0.0.1920.1040/1920.479.800.600@0.0.1920.1040" timestamp="1600428732829" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1600688986049">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1600942701439">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.479.800.600@0.0.1920.1040" timestamp="1600688986049" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.479.800.600@0.0.1920.1040" timestamp="1600942701439" />
     <state x="794" y="443" key="NewPhpFileDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600508735200" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600689037494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.479.800.600@0.0.1920.1040" timestamp="1600689037494" />
   </component>
 </project>
