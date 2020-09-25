@@ -24,7 +24,7 @@
 <body background-color="grey">
 
 <nav class="navbar navbar-expand-md bg-warning navbar-dark fixed-top">
-    <a class="navbar-brand" href="#">Navbar</a>
+    <a class="navbar-brand" href="#">Vereinsmanager</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -35,18 +35,13 @@
                 <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
+                <a class="nav-link" href="#">Dienstplan</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link disabled" href="#">Disabled</a>
+                <a class="nav-link" href="#">Arbeitsstunden</a>
             </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown01">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <a class="dropdown-item" href="#">Something else here</a>
-                </div>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Meine Daten</a>
             </li>
         </ul>
     </div>
@@ -60,6 +55,39 @@
     </div>
 
 </main><!-- /.container -->
+
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+                <ul style="list-style-type:none">
+                    <li>Punkt 1</li>
+                    <li>Punkt 2</li>
+                    <li>Punkt 3</li>
+                    <li>Impressum</li>
+                </ul>
+            </div>
+            <div class="col-sm">
+                <ul style="list-style-type:none">
+                    <li>Punkt 1</li>
+                    <li>Punkt 2</li>
+                    <li>Punkt 3</li>
+                    <li>Impressum</li>
+                </ul>
+            </div>
+            <div class="col-sm">
+                <ul style="list-style-type:none">
+                    <li>Punkt 1</li>
+                    <li>Punkt 2</li>
+                    <li>Punkt 3</li>
+                    <li>Impressum</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</div>
 
 <!-- Bootstrap core JavaScript
 ================================================== -->
