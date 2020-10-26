@@ -65,6 +65,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -87,6 +88,8 @@
       <workItem from="1601809441211" duration="471000" />
       <workItem from="1602950909493" duration="172000" />
       <workItem from="1603400828009" duration="3838000" />
+      <workItem from="1603542917903" duration="1242000" />
+      <workItem from="1603662820434" duration="2540000" />
     </task>
     <servers />
   </component>
@@ -126,6 +129,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603403132128" />
+    <state x="707" y="374" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603663937114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="374" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603663937114" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1602950950664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -139,11 +146,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="730" y="242" key="NewPhpClassDialog/0.0.1920.1040/1920.479.800.600@0.0.1920.1040" timestamp="1600428732829" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1600942701439">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1603663945705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.479.800.600@0.0.1920.1040" timestamp="1600942701439" />
-    <state x="794" y="443" key="NewPhpFileDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600508735200" />
+    <state x="794" y="443" key="NewPhpFileDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603663945705" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600689037494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

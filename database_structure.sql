@@ -43,5 +43,5 @@ INSERT INTO users (u_id, firstname, lastname, email, password, role) VALUES (6, 
 INSERT INTO users (u_id, firstname, lastname, email, password, role) VALUES (7, 'Nick', 'Holtmann', 'miro@miro.de', 'pw', 4);
 INSERT INTO users (u_id, firstname, lastname, email, password, role) VALUES (8, 'Mert', 'Ayküz', 'miro@miro.de', 'pw', 4);
 
-INSERT INTO dienstplan2020 (date, fi_1, fi_2, winch, flightcontroller, catering) VALUES (2020-10-22, 3, 4, 1, 5, 7);
-INSERT INTO dienstplan2020 (date, fi_1, fi_2, winch, flightcontroller, catering) VALUES (2020-11-15, 4, 3, 2, 6, 8);
+INSERT INTO dienstplan2020 (date, fi_1, fi_2, winch, flightcontroller, catering) VALUES ('2020-10-22', 3, 4, 1, 5, 7);
+INSERT INTO dienstplan2020 (date, fi_1, fi_2, winch, flightcontroller, catering) VALUES ('2020-11-15', 4, 3, 2, 6, 8);
